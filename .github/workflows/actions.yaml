@@ -1,0 +1,25 @@
+name: pdfs
+on: [push]
+jobs:
+  build:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup R
+      uses: r-lib/actions/setup-r@master
+    - name: Setup dependencies
+      run: |
+       R -e 'install.packages("tidyverse")'
+       R -e 'install.packages("devtools")'
+       R -e 'devtools::install_github("tidyverse/googlesheets4")'
+    
+    - name: run the script
+      env: 
+        repo_token: ${{secrets.GITHUB_TOKEN }}
+      run: |
+        R -e 'run("testmarkdown.Rmd")'
+        cml-publish testmarkdown.Rmd
+      
+  
