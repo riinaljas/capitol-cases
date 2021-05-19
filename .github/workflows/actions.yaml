@@ -20,7 +20,7 @@ jobs:
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
-        R -e 'renv::run("testmarkdown.Rmd")'
-        cml-publish testmarkdown.Rmd
+        R -e 'renv::run("test.R")'
+      
       
   
