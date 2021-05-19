@@ -26,5 +26,4 @@ jobs:
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
-        Rscript pdfs.R
         Rscript -e 'rmarkdown::render("testmarkdown.Rmd")'
