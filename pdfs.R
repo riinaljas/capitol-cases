@@ -5,6 +5,8 @@ library(pdftools)
 library(tidytext)
 library(unpivotr)
 library(foreach)
+library(packagename)
+devtools::install_github("r-lib/usethis")
 
 myurl <- "https://www.justice.gov/usao-dc/capitol-breach-cases"
 
