@@ -19,8 +19,7 @@ jobs:
     - name: run the script
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
-      run: |
-        R -e 'renv::run("test.R")'
+      run: Rscript test.R
       
       
   
