@@ -1,22 +1,22 @@
 name: pdfs
 on: [push]
 jobs:
-  run: macos-latest
-  container: docker://dcvorg/cml:latest
-  steps:
-    - uses: actions/checkout@v2
-   - name: Setup R
-   uses: r-lib/actions/setup-r@master
-   
-   -name: Setup dependencies
-    run: |
-      R -e 'install.packages("tidyverse", "googlesheets4")
+  build:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v@
+    - name: Setup R
+      uses: r-lib/actions/setup-r@master
+    - name: Setup dependencies
+      run: |
+       R -e 'install.packages("tidyverse", "googlesheets4")
     
-    -name: run the script
+    - name: run the script
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
-    
-    run: |
-      R -e 'run("testmarkdown.Rmd")'
-      cml-publish testmarkdown.Rmd
+      run: |
+        R -e 'run("testmarkdown.Rmd")'
+        cml-publish testmarkdown.Rmd
   
