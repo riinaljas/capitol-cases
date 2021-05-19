@@ -6,7 +6,7 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
-    - uses: actions/checkout@v@
+    - uses: actions/checkout@v2
     - name: Setup R
       uses: r-lib/actions/setup-r@master
     - name: Setup dependencies
