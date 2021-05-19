@@ -12,6 +12,7 @@ jobs:
     - name: Setup dependencies
       run: |
        R -e 'install.packages("tidyverse")'
+       R -e 'install.packages("renv")'
        R -e 'install.packages("devtools")'
        R -e 'devtools::install_github("tidyverse/googlesheets4")'
     
@@ -19,7 +20,7 @@ jobs:
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
-        R -e 'run("testmarkdown.Rmd")'
+        R -e 'renv::run("testmarkdown.Rmd")'
         cml-publish testmarkdown.Rmd
       
   
