@@ -6,7 +6,7 @@ jobs:
   steps:
     - uses: actions/checkout@v2
    - name: Setup R
-   users: r-lib/actions/setup-r@master
+   uses: r-lib/actions/setup-r@master
    
    -name: Setup dependencies
     run: |
