@@ -25,8 +25,7 @@ jobs:
       run: |
         Rscript -e 'rmarkdown::render("testmarkdown.Rmd")'
 
-    - name: checkout
-      uses: actions/checkout@v2
+
     - name: Commit files # commit the output folder
       run: git status
     - name: stage changed files
