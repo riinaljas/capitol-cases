@@ -156,6 +156,10 @@ f <- dir(pattern = "keywords_")
 # remove the files
 file.remove(f)
 
+f <- list.files(folder, include.dirs = F, full.names = T, recursive = T)
+# remove the files
+file.remove(f)
+
 
 write_csv(of_interest, paste0("keywords_", Sys.Date()))
 
