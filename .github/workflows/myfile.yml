@@ -30,7 +30,7 @@ jobs:
     - name: Commit files # commit the output folder
       run: git status
     - name: stage changed files
-      run: git add "testmarkdown.html"
+      run: git add -a
     - name: commit changed files
       run: git commit -m "Auto updating testmarkdown.Rmd"
     - name: fetch from master
