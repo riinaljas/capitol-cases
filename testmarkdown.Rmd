@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = F)
 library(tidyverse)
 library(rmarkdown)
 mydata <- read_csv('keywords_2021-05-18')
+saveRDS(mydata, "test_mydata.rds")
 
 
 print(mydata)
