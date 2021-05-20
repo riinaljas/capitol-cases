@@ -30,9 +30,6 @@ jobs:
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
         source("pdfs.R")
-        
-
- 
     - name: Commit files # commit the output folder
       run: git status
     - name: stage changed files
