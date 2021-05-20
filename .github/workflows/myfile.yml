@@ -30,3 +30,18 @@ jobs:
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
         Rscript -e 'rmarkdown::render("testmarkdown.Rmd")'
+        
+    - name: Commit files
+      run: |
+        git config --local core.autocrlf false
+        git config --local aljasriin@gmail.com "${{ github.actor }}@users.noreply.github.com"
+        git config --local riinaljas "${{ github.actor }}"
+        git add . && git add --renormalize .
+        git pull origin ${{ github.head_ref }} --autostash --rebase -X ours
+        git commit --allow-empty -am "AUTO-GH ACTION: ${{ github.workflow }}"
+        NO_PAGER=1 git --no-pager diff HEAD^
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        branch: ${{ github.head_ref }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
