@@ -6,6 +6,7 @@ library(tidytext)
 library(unpivotr)
 library(foreach)
 
+
 myurl <- "https://www.justice.gov/usao-dc/capitol-breach-cases"
 
 data <- read_html(myurl) %>%
