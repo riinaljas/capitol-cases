@@ -32,5 +32,5 @@ jobs:
       run: git add --a
     - name: commit changed files
       run: git commit -m "Auto updating testmarkdown.Rmd"
-    - name: push code to master
-      run: git push origin HEAD:master
+    - name: push code to main
+      run: git push origin HEAD:main
