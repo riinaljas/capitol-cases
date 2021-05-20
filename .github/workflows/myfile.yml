@@ -24,7 +24,8 @@ jobs:
         R -e 'install.packages("foreach")'
         R -e 'install.packages("renv")'
         R -e 'install.packages("rmarkdown")'
-    
+     
+     
     - name: run the script
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
