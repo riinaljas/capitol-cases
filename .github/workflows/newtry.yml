@@ -31,13 +31,14 @@ jobs:
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
         Rscript pdfs.R
-    - name: fetch
-      run:  git fetch
+  
     - name: Commit files # commit the output folder
       run: git status
     - name: stage changed files
       run: git add --a
     - name: commit changed files
       run: git commit -m "Auto updating testmarkdown.Rmd"
+    - name: fetch
+      run:  git push -f origin master
     - name: push code to master
       run: git push origin HEAD:master
