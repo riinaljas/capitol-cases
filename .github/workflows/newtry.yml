@@ -31,10 +31,10 @@ jobs:
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
         Rscript pdfs.R
+    - name: fetch
+      run:  git fetch
     - name: Commit files # commit the output folder
-      run: |
-        git status
-        git fetch
+      run: git status
     - name: stage changed files
       run: git add --a
     - name: commit changed files
