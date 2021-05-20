@@ -16,12 +16,6 @@ jobs:
     - name: Setup dependencies
       run: |
        R -e 'install.packages("tidyverse")'
-       R -e 'install.packages("rvest")'
-       R -e 'install.packages("utilities")'
-       R -e 'install.packages("pdftools")'
-       R -e 'install.packages("tidytext")'
-       R -e 'install.packages("unpivotr")'
-       R -e 'install.packages("foreach")'
        R -e 'install.packages("renv")'
        R -e 'install.packages("rmarkdown")'
     
@@ -36,7 +30,7 @@ jobs:
     - name: Commit files # commit the output folder
       run: git status
     - name: stage changed files
-      run: git add .
+      run: git add "testmarkdown.Rmd"
     - name: commit changed files
       run: git commit -m "Auto updating testmarkdown.Rmd"
     - name: fetch from master
