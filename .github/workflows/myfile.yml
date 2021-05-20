@@ -1,0 +1,36 @@
+
+name: pdfs
+on: [push]
+jobs:
+  build:
+    runs-on: macOS-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+    - uses: actions/checkout@v2
+    - uses: r-lib/actions/setup-pandoc@v1
+    - name: Setup R
+      uses: r-lib/actions/setup-r@master
+     
+      
+    - name: Setup dependencies
+      run: |
+       R -e 'install.packages("tidyverse")'
+       R -e 'install.packages("renv")'
+       R -e 'install.packages("rmarkdown")'
+    
+    - name: run the script
+      env: 
+        repo_token: ${{secrets.GITHUB_TOKEN }}
+      run: |
+        Rscript -e 'rmarkdown::render("testmarkdown.Rmd")'
+
+
+    - name: Commit files # commit the output folder
+      run: git status
+    - name: stage changed files
+      run: git add --a
+    - name: commit changed files
+      run: git commit -m "Auto updating testmarkdown.Rmd"
+    - name: push code to master
+      run: git push origin HEAD:master
