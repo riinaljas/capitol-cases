@@ -32,7 +32,9 @@ jobs:
       run: |
         Rscript pdfs.R
     - name: Commit files # commit the output folder
-      run: git status
+      run: |
+        git status
+        git fetch
     - name: stage changed files
       run: git add --a
     - name: commit changed files
