@@ -30,18 +30,21 @@ jobs:
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
         Rscript -e 'rmarkdown::render("testmarkdown.Rmd")'
-        
-    - name: Commit files
+
+    - name: checkout
+      uses: actions/checkout@v2
+    - name: Modify value # Tried to modify the files based on existing testfile.txt
       run: |
-        git config --local core.autocrlf false
-        git config --local aljasriin@gmail.com "${{ github.actor }}@users.noreply.github.com"
-        git config --local riinaljas "${{ github.actor }}"
-        git add . && git add --renormalize .
-        git pull origin ${{ github.head_ref }} --autostash --rebase -X ours
-        git commit --allow-empty -am "AUTO-GH ACTION: ${{ github.workflow }}"
-        NO_PAGER=1 git --no-pager diff HEAD^
-    - name: Push changes
+        echo 'Add value2' >> testfile.txt
+    - name: move to dir # Move the generated files into output folder
+      run: |
+        mkdir -p output
+        yes| cp -rf testfile.txt ./output/
+    - name: Commit files # commit the output folder
+      run: |
+          git config --local user.email "aljasriin@gmail.com"
+          git config --local user.name "riinaljas"
+          git add ./output
+          git commit -m "Add changes"
+    - name: Push changes # push the output folder to your repo
       uses: ad-m/github-push-action@master
-      with:
-        branch: ${{ github.head_ref }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
