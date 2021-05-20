@@ -15,21 +15,27 @@ jobs:
       
     - name: Setup dependencies
       run: |
-       R -e 'install.packages("tidyverse")'
-       R -e 'install.packages("renv")'
-       R -e 'install.packages("rmarkdown")'
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("rvest")'
+        R -e 'install.packages("utilities")'
+        R -e 'install.packages("pdftools")'
+        R -e 'install.packages("tidytext")'
+        R -e 'install.packages("unpivotr")'
+        R -e 'install.packages("foreach")'
+        R -e 'install.packages("renv")'
+        R -e 'install.packages("rmarkdown")'
     
     - name: run the script
       env: 
         repo_token: ${{secrets.GITHUB_TOKEN }}
       run: |
-        Rscript -e 'rmarkdown::render("testmarkdown.Rmd")'
+        Rscript -e 'pdfs.R'
 
 
     - name: Commit files # commit the output folder
       run: git status
     - name: stage changed files
-      run: git add --a
+      run: git add --keywords_
     - name: commit changed files
       run: git commit -m "Auto updating testmarkdown.Rmd"
     - name: push code to master
