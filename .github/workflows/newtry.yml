@@ -34,6 +34,8 @@ jobs:
   
     - name: Commit files # commit the output folder
       run: git status
+    - name: fetch
+      run: git fetch --all
     - name: stage changed files
       run: git add --a
     - name: commit changed files
