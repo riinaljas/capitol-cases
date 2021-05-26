@@ -39,4 +39,4 @@ jobs:
     - name: commit changed files
       run: git commit -m "Auto updating testmarkdown.Rmd"
     - name: push code 
-      run: git push 
+      run: git push
