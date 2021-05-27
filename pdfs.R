@@ -40,12 +40,12 @@ downloadfiles <- downloadfiles %>%
                     
 ## download files---- 
 
-folder <- 'complaints/'
+#folder <- 'complaints/'
 
 # get all files in the directories, recursively
-f <- list.files(folder, include.dirs = F, full.names = T, recursive = T)
+#f <- list.files(folder, include.dirs = F, full.names = T, recursive = T)
 # remove the files
-file.remove(f)
+#file.remove(f)
 foreach(myfile = downloadfiles$link, myid = downloadfiles$id) %do% {
   
   tempname = downloadfiles %>% 
