@@ -158,6 +158,7 @@ file.remove(f)
 
 f <- list.files(folder, include.dirs = F, full.names = T, recursive = T)
 # remove the files
+f <- subset(f, !str_detect(f, "folderfile"))
 file.remove(f)
 
 
