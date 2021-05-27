@@ -25,8 +25,7 @@ jobs:
         R -e 'install.packages("foreach")'
         R -e 'install.packages("renv")'
         R -e 'install.packages("rmarkdown")'
-    - name: create complaints dir
-      run: mkdir riinaljas/capitol-cases/complaints
+
      
      
     - name: run the script
