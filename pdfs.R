@@ -40,7 +40,7 @@ downloadfiles <- downloadfiles %>%
                     
 ## download files---- 
 
-folder <- 'complaints/'
+folder <- 'complaints'
 
 # get all files in the directories, recursively
 #f <- list.files(folder, include.dirs = F, full.names = T, recursive = T)
@@ -60,7 +60,7 @@ foreach(myfile = downloadfiles$link, myid = downloadfiles$id) %do% {
   #write id-s to filenames for later joins
                     
   download.file(myfile, 
-                      paste0("complaints/", tempname, ".pdf"), "curl", quiet = FALSE, 
+                      paste0(tempname, ".pdf"), "curl", quiet = FALSE, 
                       cacheOK = TRUE,
                       extra = getOption("download.file.extra"))
   print(downloadfiles %>% 
@@ -74,9 +74,9 @@ foreach(myfile = downloadfiles$link, myid = downloadfiles$id) %do% {
 
 ## turn files into text mass-----
 
-myfiles <- list.files("complaints", pattern = "pdf$")
+myfiles <- list.files(pattern = "pdf$")
 
-myfiles <- paste0("complaints/", myfiles) %>% 
+myfiles <- paste0(myfiles) %>% 
   as.data.frame() %>% 
   rename(file = 1)
 #pdf_texts <- lapply(myfiles, pdf_text)
