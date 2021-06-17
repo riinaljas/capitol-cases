@@ -29,6 +29,7 @@ name,keyword,person
 "c(""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"", ""id1011_Superceding"").pdf",military,NA
 "c(""id1012_Bradley-Williams Statement of Facts"", ""id1012_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
 "c(""id1014_Barnard & Witcher - Statement of Facts"", ""id1014_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id1014_Barnard & Witcher
+"c(""id1014_Bradley-Williams Statement of Facts"", ""id1014_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
 "c(""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"", ""id1014_Caldwell, et al"").pdf",military,NA
@@ -44,6 +45,7 @@ name,keyword,person
 "c(""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"", ""id1022_Superceding"").pdf",military,NA
 "c(""id1023_Barnard & Witcher - Statement of Facts"", ""id1023_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id1023_Barnard & Witcher
+"c(""id1025_Barnard & Witcher - Statement of Facts"", ""id1025_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id1025_Barnard & Witcher
 "c(""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"", ""id1025_Caldwell, et al"").pdf",military,NA
@@ -86,6 +88,13 @@ name,keyword,person
 "c(""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"").pdf","military"", ""military""",NA
 "c(""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"", ""id1044_Superceding"").pdf",military,NA
+"c(""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"").pdf",military,NA
+"c(""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"", ""id1045_Caldwell, et al"").pdf",paramilitary,NA
+"c(""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"").pdf","military"", ""military""",NA
+"c(""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"", ""id1046_Superceding"").pdf",military,NA
 "c(""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""military"", ""military""","id144_Caldwell, Crowl, & Watkins"
 "c(""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""ohiomilitia""","id144_Caldwell, Crowl, & Watkins"
 "c(""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id144_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf",paramilitary,"id144_Caldwell, Crowl, & Watkins"
@@ -143,6 +152,7 @@ name,keyword,person
 "c(""id199_& Ashlock"", ""id199_& Ashlock"", ""id199_& Ashlock"", ""id199_& Ashlock"", ""id199_& Ashlock"", ""id199_& Ashlock"").pdf",paramilitary,NA
 "c(""id202_& Ashlock"", ""id202_& Ashlock"", ""id202_& Ashlock"", ""id202_& Ashlock"", ""id202_& Ashlock"", ""id202_& Ashlock"").pdf",paramilitary,NA
 "c(""id206_& Ashlock"", ""id206_& Ashlock"", ""id206_& Ashlock"", ""id206_& Ashlock"", ""id206_& Ashlock"", ""id206_& Ashlock"").pdf",paramilitary,NA
+"c(""id207_& Ashlock"", ""id207_& Ashlock"", ""id207_& Ashlock"", ""id207_& Ashlock"", ""id207_& Ashlock"", ""id207_& Ashlock"").pdf",paramilitary,NA
 "c(""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""military"", ""military""","id230_Caldwell, Crowl, & Watkins"
 "c(""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""ohiomilitia""","id230_Caldwell, Crowl, & Watkins"
 "c(""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id230_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf",paramilitary,"id230_Caldwell, Crowl, & Watkins"
@@ -224,16 +234,29 @@ name,keyword,person
 "c(""id243_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id243_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id243_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""ohiomilitia""","id243_Caldwell, Crowl, & Watkins"
 "c(""id243_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id243_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id243_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf",paramilitary,"id243_Caldwell, Crowl, & Watkins"
 "c(""id243_Croy & Lindsey - Complaint & Statement of Facts"", ""id243_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id243_Croy & Lindsey
+"c(""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""military"", ""military""","id244_Caldwell, Crowl, & Watkins"
+"c(""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""ohiomilitia""","id244_Caldwell, Crowl, & Watkins"
+"c(""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id244_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf",paramilitary,"id244_Caldwell, Crowl, & Watkins"
 "c(""id244_Watkins, Crowl & Caldwell - Indictment"", ""id244_Watkins, Crowl & Caldwell - Indictment"", ""id244_Watkins, Crowl & Caldwell - Indictment"").pdf","paramilitary"", ""military""","id244_Watkins, Crowl & Caldwell"
 "c(""id244_Watkins, Crowl & Caldwell - Indictment"", ""id244_Watkins, Crowl & Caldwell - Indictment"", ""id244_Watkins, Crowl & Caldwell - Indictment"").pdf",military,"id244_Watkins, Crowl & Caldwell"
 "c(""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"").pdf",military,NA
 "c(""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"", ""id245_Caldwell, et al"").pdf",paramilitary,NA
+"c(""id245_Watkins, Crowl & Caldwell - Indictment"", ""id245_Watkins, Crowl & Caldwell - Indictment"", ""id245_Watkins, Crowl & Caldwell - Indictment"").pdf","paramilitary"", ""military""","id245_Watkins, Crowl & Caldwell"
+"c(""id245_Watkins, Crowl & Caldwell - Indictment"", ""id245_Watkins, Crowl & Caldwell - Indictment"", ""id245_Watkins, Crowl & Caldwell - Indictment"").pdf",military,"id245_Watkins, Crowl & Caldwell"
+"c(""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"").pdf",military,NA
+"c(""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"", ""id246_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"").pdf","military"", ""military""",NA
 "c(""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"", ""id246_Superceding"").pdf",military,NA
 "c(""id247_Croy & Lindsey - Complaint & Statement of Facts"", ""id247_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id247_Croy & Lindsey
+"c(""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"").pdf","military"", ""military""",NA
+"c(""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"", ""id247_Superceding"").pdf",military,NA
+"c(""id248_Croy & Lindsey - Complaint & Statement of Facts"", ""id248_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id248_Croy & Lindsey
 "c(""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id251_Nordean, Biggs, Rehl, Donohoe"
 "c(""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id251_Nordean, Biggs, Rehl, Donohoe"
 "c(""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id251_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id251_Nordean, Biggs, Rehl, Donohoe"
@@ -255,6 +278,9 @@ name,keyword,person
 "c(""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id264_Nordean, Biggs, Rehl, Donohoe"
 "c(""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id264_Nordean, Biggs, Rehl, Donohoe"
 "c(""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id264_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id264_Nordean, Biggs, Rehl, Donohoe"
+"c(""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id265_Nordean, Biggs, Rehl, Donohoe"
+"c(""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id265_Nordean, Biggs, Rehl, Donohoe"
+"c(""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id265_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id265_Nordean, Biggs, Rehl, Donohoe"
 "c(""id322_Strand Gold - Affidavit"", ""id322_Strand Gold - Affidavit"").pdf",international,id322_Strand Gold
 "c(""id324_Strand Gold - Affidavit"", ""id324_Strand Gold - Affidavit"").pdf",international,id324_Strand Gold
 "c(""id326_Strand Gold - Affidavit"", ""id326_Strand Gold - Affidavit"").pdf",international,id326_Strand Gold
@@ -262,6 +288,7 @@ name,keyword,person
 "c(""id328_Strand Gold - Affidavit"", ""id328_Strand Gold - Affidavit"").pdf",international,id328_Strand Gold
 "c(""id331_Strand Gold - Affidavit"", ""id331_Strand Gold - Affidavit"").pdf",international,id331_Strand Gold
 "c(""id335_Strand Gold - Affidavit"", ""id335_Strand Gold - Affidavit"").pdf",international,id335_Strand Gold
+"c(""id336_Strand Gold - Affidavit"", ""id336_Strand Gold - Affidavit"").pdf",international,id336_Strand Gold
 "c(""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"").pdf","military"", ""military""",NA
 "c(""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"", ""id374_Superceding"").pdf",military,NA
@@ -286,6 +313,9 @@ name,keyword,person
 "c(""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"").pdf","military"", ""military""",NA
 "c(""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"", ""id391_Superceding"").pdf",military,NA
+"c(""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"").pdf","military"", ""military""",NA
+"c(""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"", ""id392_Superceding"").pdf",military,NA
 "c(""id40_& Ashlock"", ""id40_& Ashlock"", ""id40_& Ashlock"", ""id40_& Ashlock"", ""id40_& Ashlock"", ""id40_& Ashlock"").pdf",paramilitary,NA
 "c(""id43_& Ashlock"", ""id43_& Ashlock"", ""id43_& Ashlock"", ""id43_& Ashlock"", ""id43_& Ashlock"", ""id43_& Ashlock"").pdf",paramilitary,NA
 "c(""id47_Parks Baggot Complaint & Affidavit"", ""id47_Parks Baggot Complaint & Affidavit"").pdf",international,NA
@@ -302,6 +332,8 @@ name,keyword,person
 "c(""id490_McDonald-Kidd Complaint & Statement of Facts"", ""id490_McDonald-Kidd Complaint & Statement of Facts"").pdf","qanon"", ""qanon""",NA
 "c(""id490_McDonald-Kidd Complaint & Statement of Facts"", ""id490_McDonald-Kidd Complaint & Statement of Facts"").pdf",qanon,NA
 "c(""id491_& Ashlock"", ""id491_& Ashlock"", ""id491_& Ashlock"", ""id491_& Ashlock"", ""id491_& Ashlock"", ""id491_& Ashlock"").pdf",paramilitary,NA
+"c(""id491_McDonald-Kidd Complaint & Statement of Facts"", ""id491_McDonald-Kidd Complaint & Statement of Facts"").pdf","qanon"", ""qanon""",NA
+"c(""id491_McDonald-Kidd Complaint & Statement of Facts"", ""id491_McDonald-Kidd Complaint & Statement of Facts"").pdf",qanon,NA
 "c(""id492_& Ashlock"", ""id492_& Ashlock"", ""id492_& Ashlock"", ""id492_& Ashlock"", ""id492_& Ashlock"", ""id492_& Ashlock"").pdf",paramilitary,NA
 "c(""id493_& Ashlock"", ""id493_& Ashlock"", ""id493_& Ashlock"", ""id493_& Ashlock"", ""id493_& Ashlock"", ""id493_& Ashlock"").pdf",paramilitary,NA
 "c(""id495_& Ashlock"", ""id495_& Ashlock"", ""id495_& Ashlock"", ""id495_& Ashlock"", ""id495_& Ashlock"", ""id495_& Ashlock"").pdf",paramilitary,NA
@@ -309,10 +341,13 @@ name,keyword,person
 "c(""id499_& Ashlock"", ""id499_& Ashlock"", ""id499_& Ashlock"", ""id499_& Ashlock"", ""id499_& Ashlock"", ""id499_& Ashlock"").pdf",paramilitary,NA
 "c(""id499_Croy & Lindsey - Complaint & Statement of Facts"", ""id499_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id499_Croy & Lindsey
 "c(""id50_Parks Baggot Complaint & Affidavit"", ""id50_Parks Baggot Complaint & Affidavit"").pdf",international,NA
+"c(""id500_& Ashlock"", ""id500_& Ashlock"", ""id500_& Ashlock"", ""id500_& Ashlock"", ""id500_& Ashlock"", ""id500_& Ashlock"").pdf",paramilitary,NA
 "c(""id501_& Ashlock"", ""id501_& Ashlock"", ""id501_& Ashlock"", ""id501_& Ashlock"", ""id501_& Ashlock"", ""id501_& Ashlock"").pdf",paramilitary,NA
 "c(""id501_Croy & Lindsey - Complaint & Statement of Facts"", ""id501_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id501_Croy & Lindsey
+"c(""id502_& Ashlock"", ""id502_& Ashlock"", ""id502_& Ashlock"", ""id502_& Ashlock"", ""id502_& Ashlock"", ""id502_& Ashlock"").pdf",paramilitary,NA
 "c(""id503_Croy & Lindsey - Complaint & Statement of Facts"", ""id503_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id503_Croy & Lindsey
 "c(""id505_& Ashlock"", ""id505_& Ashlock"", ""id505_& Ashlock"", ""id505_& Ashlock"", ""id505_& Ashlock"", ""id505_& Ashlock"").pdf",paramilitary,NA
+"c(""id506_& Ashlock"", ""id506_& Ashlock"", ""id506_& Ashlock"", ""id506_& Ashlock"", ""id506_& Ashlock"", ""id506_& Ashlock"").pdf",paramilitary,NA
 "c(""id507_Croy & Lindsey - Complaint & Statement of Facts"", ""id507_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id507_Croy & Lindsey
 "c(""id510_Croy & Lindsey - Complaint & Statement of Facts"", ""id510_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id510_Croy & Lindsey
 "c(""id511_Croy & Lindsey - Complaint & Statement of Facts"", ""id511_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id511_Croy & Lindsey
@@ -320,6 +355,7 @@ name,keyword,person
 "c(""id514_Croy & Lindsey - Complaint & Statement of Facts"", ""id514_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id514_Croy & Lindsey
 "c(""id517_Croy & Lindsey - Complaint & Statement of Facts"", ""id517_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id517_Croy & Lindsey
 "c(""id523_Croy & Lindsey - Complaint & Statement of Facts"", ""id523_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id523_Croy & Lindsey
+"c(""id524_Croy & Lindsey - Complaint & Statement of Facts"", ""id524_Croy & Lindsey - Complaint & Statement of Facts"").pdf","military"", ""military""",id524_Croy & Lindsey
 "c(""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"", ""id546_Caldwell, et al"").pdf",military,NA
@@ -413,6 +449,8 @@ name,keyword,person
 "c(""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"").pdf","military"", ""military""",NA
 "c(""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"", ""id566_Superceding"").pdf",military,NA
+"c(""id567_McDonald-Kidd Complaint & Statement of Facts"", ""id567_McDonald-Kidd Complaint & Statement of Facts"").pdf","qanon"", ""qanon""",NA
+"c(""id567_McDonald-Kidd Complaint & Statement of Facts"", ""id567_McDonald-Kidd Complaint & Statement of Facts"").pdf",qanon,NA
 "c(""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"").pdf","military"", ""military""",NA
 "c(""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"", ""id567_Superceding"").pdf",military,NA
@@ -433,21 +471,35 @@ name,keyword,person
 "c(""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"").pdf",military,NA
 "c(""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"", ""id573_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id573_Miller & Miller - Statement of Facts"", ""id573_Miller & Miller - Statement of Facts"").pdf",international,id573_Miller & Miller
+"c(""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"").pdf",military,NA
+"c(""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"", ""id574_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"").pdf","military"", ""military""",NA
 "c(""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"", ""id574_Superceding"").pdf",military,NA
 "c(""id575_Miller & Miller - Statement of Facts"", ""id575_Miller & Miller - Statement of Facts"").pdf",international,id575_Miller & Miller
 "c(""id575_mmiddleton-sof.pdf"", ""id575_mmiddleton-sof.pdf"").pdf",the base ,NA
+"c(""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"").pdf","military"", ""military""",NA
+"c(""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"", ""id575_Superceding"").pdf",military,NA
 "c(""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"").pdf",military,NA
 "c(""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"", ""id576_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id576_mmiddleton-sof.pdf"", ""id576_mmiddleton-sof.pdf"").pdf",the base ,NA
+"c(""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"").pdf",military,NA
+"c(""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"", ""id577_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id577_Miller & Miller - Statement of Facts"", ""id577_Miller & Miller - Statement of Facts"").pdf",international,id577_Miller & Miller
 "c(""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"").pdf","military"", ""military""",NA
 "c(""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"", ""id577_Superceding"").pdf",military,NA
 "c(""id578_mmiddleton-sof.pdf"", ""id578_mmiddleton-sof.pdf"").pdf",the base ,NA
+"c(""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"").pdf","military"", ""military""",NA
+"c(""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"", ""id578_Superceding"").pdf",military,NA
 "c(""id579_Miller & Miller - Statement of Facts"", ""id579_Miller & Miller - Statement of Facts"").pdf",international,id579_Miller & Miller
 "c(""id579_mmiddleton-sof.pdf"", ""id579_mmiddleton-sof.pdf"").pdf",the base ,NA
 "c(""id581_Miller & Miller - Statement of Facts"", ""id581_Miller & Miller - Statement of Facts"").pdf",international,id581_Miller & Miller
@@ -463,13 +515,16 @@ name,keyword,person
 "c(""id589_mmiddleton-sof.pdf"", ""id589_mmiddleton-sof.pdf"").pdf",the base ,NA
 "c(""id59_Barnard & Witcher - Statement of Facts"", ""id59_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id59_Barnard & Witcher
 "c(""id590_Miller & Miller - Statement of Facts"", ""id590_Miller & Miller - Statement of Facts"").pdf",international,id590_Miller & Miller
+"c(""id590_mmiddleton-sof.pdf"", ""id590_mmiddleton-sof.pdf"").pdf",the base ,NA
 "c(""id591_Miller & Miller - Statement of Facts"", ""id591_Miller & Miller - Statement of Facts"").pdf",international,id591_Miller & Miller
 "c(""id592_mmiddleton-sof.pdf"", ""id592_mmiddleton-sof.pdf"").pdf",the base ,NA
 "c(""id593_Miller & Miller - Statement of Facts"", ""id593_Miller & Miller - Statement of Facts"").pdf",international,id593_Miller & Miller
+"c(""id593_mmiddleton-sof.pdf"", ""id593_mmiddleton-sof.pdf"").pdf",the base ,NA
 "c(""id594_Miller & Miller - Statement of Facts"", ""id594_Miller & Miller - Statement of Facts"").pdf",international,id594_Miller & Miller
 "c(""id596_Miller & Miller - Statement of Facts"", ""id596_Miller & Miller - Statement of Facts"").pdf",international,id596_Miller & Miller
 "c(""id597_Miller & Miller - Statement of Facts"", ""id597_Miller & Miller - Statement of Facts"").pdf",international,id597_Miller & Miller
 "c(""id604_Miller & Miller - Statement of Facts"", ""id604_Miller & Miller - Statement of Facts"").pdf",international,id604_Miller & Miller
+"c(""id605_Miller & Miller - Statement of Facts"", ""id605_Miller & Miller - Statement of Facts"").pdf",international,id605_Miller & Miller
 "c(""id61_Barnard & Witcher - Statement of Facts"", ""id61_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id61_Barnard & Witcher
 "c(""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id627_Nordean, Biggs, Rehl, Donohoe"
 "c(""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id627_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id627_Nordean, Biggs, Rehl, Donohoe"
@@ -513,6 +568,9 @@ name,keyword,person
 "c(""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"").pdf",military,NA
 "c(""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"", ""id657_Caldwell, et al"").pdf",paramilitary,NA
+"c(""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id657_Nordean, Biggs, Rehl, Donohoe"
+"c(""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id657_Nordean, Biggs, Rehl, Donohoe"
+"c(""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id657_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id657_Nordean, Biggs, Rehl, Donohoe"
 "c(""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"", ""id658_Caldwell, et al"").pdf",military,NA
@@ -618,18 +676,33 @@ name,keyword,person
 "c(""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"").pdf",military,NA
 "c(""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"", ""id683_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id683_Parks Baggot Complaint & Affidavit"", ""id683_Parks Baggot Complaint & Affidavit"").pdf",international,NA
+"c(""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"").pdf",military,NA
+"c(""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"", ""id684_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"").pdf","military"", ""military""",NA
 "c(""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"", ""id684_Superceding"").pdf",military,NA
+"c(""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"").pdf","military"", ""military""",NA
+"c(""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"", ""id685_Superceding"").pdf",military,NA
 "c(""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"").pdf",military,NA
 "c(""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"", ""id686_Caldwell, et al"").pdf",paramilitary,NA
+"c(""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"").pdf",military,NA
+"c(""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"", ""id687_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"").pdf","military"", ""military""",NA
 "c(""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"", ""id687_Superceding"").pdf",military,NA
+"c(""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"").pdf","military"", ""military""",NA
+"c(""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"", ""id688_Superceding"").pdf",military,NA
 "c(""id689_Pope & Pope - Statement of Facts"", ""id689_Pope & Pope - Statement of Facts"").pdf",international,id689_Pope & Pope
 "c(""id690_Parks Baggot Complaint & Affidavit"", ""id690_Parks Baggot Complaint & Affidavit"").pdf",international,NA
+"c(""id691_Parks Baggot Complaint & Affidavit"", ""id691_Parks Baggot Complaint & Affidavit"").pdf",international,NA
 "c(""id692_Pope & Pope - Statement of Facts"", ""id692_Pope & Pope - Statement of Facts"").pdf",international,id692_Pope & Pope
 "c(""id693_Pope & Pope - Statement of Facts"", ""id693_Pope & Pope - Statement of Facts"").pdf",international,id693_Pope & Pope
 "c(""id696_Pope & Pope - Statement of Facts"", ""id696_Pope & Pope - Statement of Facts"").pdf",international,id696_Pope & Pope
@@ -644,7 +717,9 @@ name,keyword,person
 "c(""id712_Pope & Pope - Statement of Facts"", ""id712_Pope & Pope - Statement of Facts"").pdf",international,id712_Pope & Pope
 "c(""id715_Pope & Pope - Statement of Facts"", ""id715_Pope & Pope - Statement of Facts"").pdf",international,id715_Pope & Pope
 "c(""id719_Pope & Pope - Statement of Facts"", ""id719_Pope & Pope - Statement of Facts"").pdf",international,id719_Pope & Pope
+"c(""id720_Pope & Pope - Statement of Facts"", ""id720_Pope & Pope - Statement of Facts"").pdf",international,id720_Pope & Pope
 "c(""id722_Pope & Pope - Statement of Facts"", ""id722_Pope & Pope - Statement of Facts"").pdf",international,id722_Pope & Pope
+"c(""id723_Pope & Pope - Statement of Facts"", ""id723_Pope & Pope - Statement of Facts"").pdf",international,id723_Pope & Pope
 "c(""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id731_Nordean, Biggs, Rehl, Donohoe"
 "c(""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id731_Nordean, Biggs, Rehl, Donohoe"
 "c(""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id731_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id731_Nordean, Biggs, Rehl, Donohoe"
@@ -675,6 +750,9 @@ name,keyword,person
 "c(""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id764_Nordean, Biggs, Rehl, Donohoe"
 "c(""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id764_Nordean, Biggs, Rehl, Donohoe"
 "c(""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id764_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id764_Nordean, Biggs, Rehl, Donohoe"
+"c(""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id766_Nordean, Biggs, Rehl, Donohoe"
+"c(""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id766_Nordean, Biggs, Rehl, Donohoe"
+"c(""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id766_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id766_Nordean, Biggs, Rehl, Donohoe"
 "c(""id79_Bradley-Williams Statement of Facts"", ""id79_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
 "c(""id81_Bradley-Williams Statement of Facts"", ""id81_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
 "c(""id84_Bradley-Williams Statement of Facts"", ""id84_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
@@ -783,8 +861,15 @@ name,keyword,person
 "c(""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"").pdf","military"", ""military""",NA
 "c(""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"", ""id906_Superceding"").pdf",military,NA
+"c(""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"").pdf",military,NA
+"c(""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"", ""id907_Caldwell, et al"").pdf",paramilitary,NA
 "c(""id907_Suarez & Todisco - Complaint & Statement of Facts"", ""id907_Suarez & Todisco - Complaint & Statement of Facts"").pdf",international,id907_Suarez & Todisco
 "c(""id907_Suarez & Todisco - Complaint & Statement of Facts"", ""id907_Suarez & Todisco - Complaint & Statement of Facts"").pdf",military,id907_Suarez & Todisco
+"c(""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"").pdf","military"", ""military""",NA
+"c(""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"", ""id908_Superceding"").pdf",military,NA
 "c(""id909_Strand Gold - Affidavit"", ""id909_Strand Gold - Affidavit"").pdf",international,id909_Strand Gold
 "c(""id909_Suarez & Todisco - Complaint & Statement of Facts"", ""id909_Suarez & Todisco - Complaint & Statement of Facts"").pdf",international,id909_Suarez & Todisco
 "c(""id909_Suarez & Todisco - Complaint & Statement of Facts"", ""id909_Suarez & Todisco - Complaint & Statement of Facts"").pdf",military,id909_Suarez & Todisco
@@ -807,6 +892,7 @@ name,keyword,person
 "c(""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf","funding"", ""donation"", ""donation""","id92_Nordean, Biggs, Rehl, Donohoe"
 "c(""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",military,"id92_Nordean, Biggs, Rehl, Donohoe"
 "c(""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"", ""id92_Nordean, Biggs, Rehl, Donohoe - Indictment"").pdf",paramilitary,"id92_Nordean, Biggs, Rehl, Donohoe"
+"c(""id920_Strand Gold - Affidavit"", ""id920_Strand Gold - Affidavit"").pdf",international,id920_Strand Gold
 "c(""id921_Suarez & Todisco - Complaint & Statement of Facts"", ""id921_Suarez & Todisco - Complaint & Statement of Facts"").pdf",international,id921_Suarez & Todisco
 "c(""id921_Suarez & Todisco - Complaint & Statement of Facts"", ""id921_Suarez & Todisco - Complaint & Statement of Facts"").pdf",military,id921_Suarez & Todisco
 "c(""id924_Suarez & Todisco - Complaint & Statement of Facts"", ""id924_Suarez & Todisco - Complaint & Statement of Facts"").pdf",international,id924_Suarez & Todisco
@@ -826,6 +912,8 @@ name,keyword,person
 "c(""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""military"", ""military""","id945_Caldwell, Crowl, & Watkins"
 "c(""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""ohiomilitia""","id945_Caldwell, Crowl, & Watkins"
 "c(""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id945_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf",paramilitary,"id945_Caldwell, Crowl, & Watkins"
+"c(""id945_Suarez & Todisco - Complaint & Statement of Facts"", ""id945_Suarez & Todisco - Complaint & Statement of Facts"").pdf",international,id945_Suarez & Todisco
+"c(""id945_Suarez & Todisco - Complaint & Statement of Facts"", ""id945_Suarez & Todisco - Complaint & Statement of Facts"").pdf",military,id945_Suarez & Todisco
 "c(""id946_Watkins, Crowl & Caldwell - Indictment"", ""id946_Watkins, Crowl & Caldwell - Indictment"", ""id946_Watkins, Crowl & Caldwell - Indictment"").pdf","paramilitary"", ""military""","id946_Watkins, Crowl & Caldwell"
 "c(""id946_Watkins, Crowl & Caldwell - Indictment"", ""id946_Watkins, Crowl & Caldwell - Indictment"", ""id946_Watkins, Crowl & Caldwell - Indictment"").pdf",military,"id946_Watkins, Crowl & Caldwell"
 "c(""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"", ""id947_Caldwell, et al"").pdf","military"", ""military""",NA
@@ -952,6 +1040,9 @@ name,keyword,person
 "c(""id983_Watkins, Crowl & Caldwell - Indictment"", ""id983_Watkins, Crowl & Caldwell - Indictment"", ""id983_Watkins, Crowl & Caldwell - Indictment"").pdf","paramilitary"", ""military""","id983_Watkins, Crowl & Caldwell"
 "c(""id983_Watkins, Crowl & Caldwell - Indictment"", ""id983_Watkins, Crowl & Caldwell - Indictment"", ""id983_Watkins, Crowl & Caldwell - Indictment"").pdf",military,"id983_Watkins, Crowl & Caldwell"
 "c(""id984_Bradley-Williams Statement of Facts"", ""id984_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
+"c(""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""military"", ""military""","id984_Caldwell, Crowl, & Watkins"
+"c(""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf","paramilitary"", ""ohiomilitia""","id984_Caldwell, Crowl, & Watkins"
+"c(""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"", ""id984_Caldwell, Crowl, & Watkins - Amended Complaint Affidavit"").pdf",paramilitary,"id984_Caldwell, Crowl, & Watkins"
 "c(""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"").pdf","military"", ""military""",NA
 "c(""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"", ""id984_Caldwell, et al"").pdf",military,NA
@@ -960,6 +1051,15 @@ name,keyword,person
 "c(""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"").pdf","military"", ""military""",NA
 "c(""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
 "c(""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"", ""id985_Superceding"").pdf",military,NA
+"c(""id985_Watkins, Crowl & Caldwell - Indictment"", ""id985_Watkins, Crowl & Caldwell - Indictment"", ""id985_Watkins, Crowl & Caldwell - Indictment"").pdf","paramilitary"", ""military""","id985_Watkins, Crowl & Caldwell"
+"c(""id985_Watkins, Crowl & Caldwell - Indictment"", ""id985_Watkins, Crowl & Caldwell - Indictment"", ""id985_Watkins, Crowl & Caldwell - Indictment"").pdf",military,"id985_Watkins, Crowl & Caldwell"
+"c(""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"").pdf","military"", ""military""",NA
+"c(""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"").pdf","paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"").pdf",military,NA
+"c(""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"", ""id986_Caldwell, et al"").pdf",paramilitary,NA
+"c(""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"").pdf","military"", ""military""",NA
+"c(""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"").pdf","paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",NA
+"c(""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"", ""id987_Superceding"").pdf",military,NA
 "c(""id989_Barnard & Witcher - Statement of Facts"", ""id989_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id989_Barnard & Witcher
 "c(""id990_Barnard & Witcher - Statement of Facts"", ""id990_Barnard & Witcher - Statement of Facts"").pdf","extremist"", ""extremist""",id990_Barnard & Witcher
 "c(""id990_Bradley-Williams Statement of Facts"", ""id990_Bradley-Williams Statement of Facts"").pdf","qanon"", ""qanon"", ""qanon""",NA
@@ -999,10 +1099,15 @@ id1015_Worrell - Statement of Facts.pdf,extreme,id1015_Worrell
 id1015_Worrell - Statement of Facts.pdf,international,id1015_Worrell
 "id1016_Williams, Riley - Amended Statement of Facts.pdf","british"", ""far right""","id1016_Williams, Riley"
 "id1016_Williams, Riley - Amended Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id1016_Williams, Riley"
+"id1016_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id1016_Williams, Riley"
+"id1016_Williams, Riley - Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id1016_Williams, Riley"
 id1016_Zink - Complaint & Statement of Facts .pdf,radical,id1016_Zink
 id1017_Timothy Wayne Williams Charging Documents.pdf,generation,NA
+"id1018_Williams, Riley - Amended Statement of Facts.pdf","british"", ""far right""","id1018_Williams, Riley"
+"id1018_Williams, Riley - Amended Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id1018_Williams, Riley"
 id1018_Worrell - Statement of Facts.pdf,extreme,id1018_Worrell
 id1018_Worrell - Statement of Facts.pdf,international,id1018_Worrell
+id1019_Timothy Wayne Williams Charging Documents.pdf,generation,NA
 id102_Bissey & Morgan-Lloyd - Statement of Facts.pdf,qanon,id102_Bissey & Morgan-Lloyd
 id1020_Worrell - Statement of Facts.pdf,extreme,id1020_Worrell
 id1020_Worrell - Statement of Facts.pdf,international,id1020_Worrell
@@ -1015,8 +1120,11 @@ id1031_Zink - Complaint & Statement of Facts .pdf,radical,id1031_Zink
 id1032_Worrell - Statement of Facts.pdf,extreme,id1032_Worrell
 id1032_Worrell - Statement of Facts.pdf,international,id1032_Worrell
 id1033_Zink - Complaint & Statement of Facts .pdf,radical,id1033_Zink
+id1034_Worrell - Statement of Facts.pdf,extreme,id1034_Worrell
+id1034_Worrell - Statement of Facts.pdf,international,id1034_Worrell
 id1036_Zink - Complaint & Statement of Facts .pdf,radical,id1036_Zink
 id1045_Zink - Complaint & Statement of Facts .pdf,radical,id1045_Zink
+id1047_Zink - Complaint & Statement of Facts .pdf,radical,id1047_Zink
 id113_Bochene Statement of Facts.pdf,far right,NA
 id115_Bochene Statement of Facts.pdf,far right,NA
 id117_Bochene Statement of Facts.pdf,far right,NA
@@ -1102,10 +1210,17 @@ id219_Cordon & Cordon - Statement of Facts Redacted.pdf,international,id219_Cord
 id220_Cordon & Cordon - Statement of Facts.pdf,awakening,id220_Cordon & Cordon
 id220_Cordon & Cordon - Statement of Facts.pdf,"international"", ""international""",id220_Cordon & Cordon
 id220_Cordon & Cordon - Statement of Facts.pdf,international,id220_Cordon & Cordon
+id221_Cordon & Cordon - Statement of Facts.pdf,awakening,id221_Cordon & Cordon
+id221_Cordon & Cordon - Statement of Facts.pdf,"international"", ""international""",id221_Cordon & Cordon
+id221_Cordon & Cordon - Statement of Facts.pdf,international,id221_Cordon & Cordon
 id223_Cordon & Cordon - Statement of Facts Redacted.pdf,awakening,id223_Cordon & Cordon
 id223_Cordon & Cordon - Statement of Facts Redacted.pdf,"international"", ""international"", ""international""",id223_Cordon & Cordon
 id223_Cordon & Cordon - Statement of Facts Redacted.pdf,"international"", ""international""",id223_Cordon & Cordon
 id223_Cordon & Cordon - Statement of Facts Redacted.pdf,international,id223_Cordon & Cordon
+id224_Cordon & Cordon - Statement of Facts Redacted.pdf,awakening,id224_Cordon & Cordon
+id224_Cordon & Cordon - Statement of Facts Redacted.pdf,"international"", ""international"", ""international""",id224_Cordon & Cordon
+id224_Cordon & Cordon - Statement of Facts Redacted.pdf,"international"", ""international""",id224_Cordon & Cordon
+id224_Cordon & Cordon - Statement of Facts Redacted.pdf,international,id224_Cordon & Cordon
 id23_Alberts - Statement of Facts.pdf,military,id23_Alberts
 id230_Creek Complaint & Affidavit.pdf,"military"", ""international""",NA
 id231_Creek Complaint & Affidavit.pdf,"military"", ""international""",NA
@@ -1115,8 +1230,10 @@ id233_Crosby Statement of Facts.pdf,qanon,NA
 id234_Creek Complaint & Affidavit.pdf,"military"", ""international""",NA
 id236_Crosby Statement of Facts.pdf,qanon,NA
 id238_Creek Complaint & Affidavit.pdf,"military"", ""international""",NA
+id239_Creek Complaint & Affidavit.pdf,"military"", ""international""",NA
 id24_Alberts - Statement of Facts.pdf,military,id24_Alberts
 id240_Crosby Statement of Facts.pdf,qanon,NA
+id241_Crosby Statement of Facts.pdf,qanon,NA
 id259_Edwards Statement of Facts.pdf,military,NA
 id260_Egtvedt - Complaint & Affidavit.pdf,the base ,id260_Egtvedt
 id261_Edwards Statement of Facts.pdf,military,NA
@@ -1140,11 +1257,15 @@ id271_Ehrke - Statement of Facts.pdf,international,id271_Ehrke
 id272_Edwards Statement of Facts.pdf,military,NA
 id272_Ehrke - Statement of Facts.pdf,"qanon"", ""far right""",id272_Ehrke
 id272_Ehrke - Statement of Facts.pdf,international,id272_Ehrke
+id273_Edwards Statement of Facts.pdf,military,NA
 id273_Egtvedt - Complaint & Affidavit.pdf,the base ,id273_Egtvedt
+id274_Egtvedt - Complaint & Affidavit.pdf,the base ,id274_Egtvedt
 id275_Ehrke - Statement of Facts.pdf,"qanon"", ""far right""",id275_Ehrke
 id275_Ehrke - Statement of Facts.pdf,international,id275_Ehrke
 id279_Ehrke - Statement of Facts.pdf,"qanon"", ""far right""",id279_Ehrke
 id279_Ehrke - Statement of Facts.pdf,international,id279_Ehrke
+id280_Ehrke - Statement of Facts.pdf,"qanon"", ""far right""",id280_Ehrke
+id280_Ehrke - Statement of Facts.pdf,international,id280_Ehrke
 id283_Fellows - Complaint Affidavit.pdf,international,id283_Fellows
 id285_Fellows - Complaint Affidavit.pdf,international,id285_Fellows
 id287_Fellows - Complaint Affidavit.pdf,international,id287_Fellows
@@ -1154,6 +1275,7 @@ id289_Fellows - Complaint Affidavit.pdf,international,id289_Fellows
 "id29_Allan, Tommy - Complaint & Statement of Facts.pdf","military"", ""three percent""","id29_Allan, Tommy"
 id292_Fellows - Complaint Affidavit.pdf,international,id292_Fellows
 id296_Fellows - Complaint Affidavit.pdf,international,id296_Fellows
+id297_Fellows - Complaint Affidavit.pdf,international,id297_Fellows
 "id30_Allan, Tommy - Complaint & Statement of Facts.pdf","british"", ""three percent"", ""british""","id30_Allan, Tommy"
 "id30_Allan, Tommy - Complaint & Statement of Facts.pdf","military"", ""three percent""","id30_Allan, Tommy"
 id300_Foy - Statement of Facts.pdf,"military"", ""military""",id300_Foy
@@ -1177,13 +1299,17 @@ id312_Galetto Statement of Facts.pdf,"international"", ""international""",NA
 id313_Foy - Statement of Facts.pdf,"military"", ""military""",id313_Foy
 id313_Foy - Statement of Facts.pdf,international,id313_Foy
 id313_Garcia - Statement of Facts.pdf,extreme,id313_Garcia
+id314_Foy - Statement of Facts.pdf,"military"", ""military""",id314_Foy
+id314_Foy - Statement of Facts.pdf,international,id314_Foy
 id315_Galetto Statement of Facts.pdf,"international"", ""international""",NA
 id315_Garcia - Statement of Facts.pdf,extreme,id315_Garcia
 id316_Garcia - Statement of Facts.pdf,extreme,id316_Garcia
 id317_Garcia - Statement of Facts.pdf,extreme,id317_Garcia
 id319_Galetto Statement of Facts.pdf,"international"", ""international""",NA
+id320_Galetto Statement of Facts.pdf,"international"", ""international""",NA
 id320_Garcia - Statement of Facts.pdf,extreme,id320_Garcia
 id324_Garcia - Statement of Facts.pdf,extreme,id324_Garcia
+id325_Garcia - Statement of Facts.pdf,extreme,id325_Garcia
 "id333_Grace, Jeffrey - Complaint & Statement of Facts.pdf",three percent,"id333_Grace, Jeffrey"
 id335_Grace Complaint & Statement of Facts.pdf,three percent,NA
 "id335_Grace, Jeffrey - Complaint & Statement of Facts.pdf",three percent,"id335_Grace, Jeffrey"
@@ -1203,8 +1329,11 @@ id341_Grace Complaint & Statement of Facts.pdf,three percent,NA
 id344_Grace Complaint & Statement of Facts.pdf,three percent,NA
 "id346_Grace, Jeffrey - Complaint & Statement of Facts.pdf",three percent,"id346_Grace, Jeffrey"
 "id346_Grayson, Kenneth - Complaint & Statement of Facts.pdf","qanon"", ""qanon"", ""qanon""","id346_Grayson, Kenneth"
+"id347_Grace, Jeffrey - Complaint & Statement of Facts.pdf",three percent,"id347_Grace, Jeffrey"
 id348_Grace Complaint & Statement of Facts.pdf,three percent,NA
+id349_Grace Complaint & Statement of Facts.pdf,three percent,NA
 "id350_Grayson, Kenneth - Complaint & Statement of Facts.pdf","qanon"", ""qanon"", ""qanon""","id350_Grayson, Kenneth"
+"id351_Grayson, Kenneth - Complaint & Statement of Facts.pdf","qanon"", ""qanon"", ""qanon""","id351_Grayson, Kenneth"
 id353_Griswold - Statement of Facts.pdf,international,id353_Griswold
 id355_Griswold - Statement of Facts.pdf,international,id355_Griswold
 id357_Griswold - Statement of Facts.pdf,international,id357_Griswold
@@ -1218,6 +1347,7 @@ id364_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id364_Hale-C
 id366_Griswold - Statement of Facts.pdf,international,id366_Griswold
 "id366_Gundersen, Brian - Complaint & Statement of Facts.pdf",fuentes,"id366_Gundersen, Brian"
 id366_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id366_Hale-Cusanelli
+id367_Griswold - Statement of Facts.pdf,international,id367_Griswold
 "id367_Gundersen, Brian - Complaint & Statement of Facts.pdf",fuentes,"id367_Gundersen, Brian"
 "id368_Gundersen, Brian - Complaint & Statement of Facts.pdf",fuentes,"id368_Gundersen, Brian"
 id368_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id368_Hale-Cusanelli
@@ -1232,6 +1362,7 @@ id374_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id374_Hale-C
 id375_Harrelson - Complaint & Affidavit.pdf,"military"", ""military""",id375_Harrelson
 id375_Harrelson - Complaint & Affidavit.pdf,international,id375_Harrelson
 id375_Harrelson - Complaint & Affidavit.pdf,military,id375_Harrelson
+"id376_Gundersen, Brian - Complaint & Statement of Facts.pdf",fuentes,"id376_Gundersen, Brian"
 id377_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id377_Hale-Cusanelli
 id377_Harrelson - Complaint & Affidavit.pdf,"military"", ""military""",id377_Harrelson
 id377_Harrelson - Complaint & Affidavit.pdf,international,id377_Harrelson
@@ -1244,6 +1375,7 @@ id381_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id381_Hale-C
 id381_Harrelson - Complaint & Affidavit.pdf,"military"", ""military""",id381_Harrelson
 id381_Harrelson - Complaint & Affidavit.pdf,international,id381_Harrelson
 id381_Harrelson - Complaint & Affidavit.pdf,military,id381_Harrelson
+id382_Hale-Cusanelli - Statement of Facts.pdf,"nazi"", ""extreme""",id382_Hale-Cusanelli
 id382_Harrelson - Complaint & Affidavit.pdf,"military"", ""military""",id382_Harrelson
 id382_Harrelson - Complaint & Affidavit.pdf,international,id382_Harrelson
 id382_Harrelson - Complaint & Affidavit.pdf,military,id382_Harrelson
@@ -1257,6 +1389,9 @@ id389_Schornak & Herendeen - Statement of Facts.pdf,military,id389_Schornak & He
 id390_Harrelson - Complaint & Affidavit.pdf,"military"", ""military""",id390_Harrelson
 id390_Harrelson - Complaint & Affidavit.pdf,international,id390_Harrelson
 id390_Harrelson - Complaint & Affidavit.pdf,military,id390_Harrelson
+id391_Harrelson - Complaint & Affidavit.pdf,"military"", ""military""",id391_Harrelson
+id391_Harrelson - Complaint & Affidavit.pdf,international,id391_Harrelson
+id391_Harrelson - Complaint & Affidavit.pdf,military,id391_Harrelson
 id391_Schornak & Herendeen - Statement of Facts.pdf,military,id391_Schornak & Herendeen
 id393_Schornak & Herendeen - Statement of Facts.pdf,military,id393_Schornak & Herendeen
 id397_Schornak & Herendeen - Statement of Facts.pdf,military,id397_Schornak & Herendeen
@@ -1269,10 +1404,12 @@ id404_Herrington Complaint & Affidavit.pdf,military,NA
 id405_Herrington Complaint & Affidavit.pdf,military,NA
 id407_Schornak & Herendeen - Statement of Facts.pdf,military,id407_Schornak & Herendeen
 id408_Herrington Complaint & Affidavit.pdf,military,NA
+id408_Schornak & Herendeen - Statement of Facts.pdf,military,id408_Schornak & Herendeen
 id41_Antonio Statement of Facts.pdf,"three percent"", ""extremist"", ""three percent"", ""three percent"", ""british"", ""british""",NA
 id41_Antonio Statement of Facts.pdf,"three percent"", ""three percent""",NA
 id41_Antonio Statement of Facts.pdf,three percent,NA
 id413_Herrington Complaint & Affidavit.pdf,military,NA
+id414_Herrington Complaint & Affidavit.pdf,military,NA
 "id415_Hyland, Jason - Complaint & Statement of Facts.pdf",international,"id415_Hyland, Jason"
 "id417_Hyland, Jason - Complaint & Statement of Facts.pdf",international,"id417_Hyland, Jason"
 id419_Bishai & Irizarry - Statement of Facts Redacted.pdf,military,id419_Bishai & Irizarry
@@ -1304,6 +1441,7 @@ id434_James - Affidavit .pdf,"military"", ""military"", ""military""",id434_Jame
 id434_James - Affidavit .pdf,"military"", ""military""",id434_James
 id434_James - Affidavit .pdf,military,id434_James
 id434_Jancart - Complaint & Statement of Facts.pdf,international,id434_Jancart
+"id435_Hyland, Jason - Complaint & Statement of Facts.pdf",international,"id435_Hyland, Jason"
 "id435_Jackson, Emanuel - Statement of Facts.pdf",military,"id435_Jackson, Emanuel"
 "id436_Jackson, Emanuel - Statement of Facts.pdf",military,"id436_Jackson, Emanuel"
 id436_Jancart - Complaint & Statement of Facts.pdf,international,id436_Jancart
@@ -1313,6 +1451,7 @@ id438_Bishai & Irizarry - Statement of Facts Redacted.pdf,military,id438_Bishai 
 id438_James - Affidavit .pdf,"military"", ""military"", ""military""",id438_James
 id438_James - Affidavit .pdf,"military"", ""military""",id438_James
 id438_James - Affidavit .pdf,military,id438_James
+id439_Bishai & Irizarry - Statement of Facts Redacted.pdf,military,id439_Bishai & Irizarry
 id439_James - Affidavit .pdf,"military"", ""military"", ""military""",id439_James
 id439_James - Affidavit .pdf,"military"", ""military""",id439_James
 id439_James - Affidavit .pdf,military,id439_James
@@ -1338,6 +1477,7 @@ id444_James - Affidavit .pdf,"military"", ""military""",id444_James
 id444_James - Affidavit .pdf,military,id444_James
 "id446_Jackson, Emanuel - Statement of Facts.pdf",military,"id446_Jackson, Emanuel"
 id446_Jancart - Complaint & Statement of Facts.pdf,international,id446_Jancart
+"id447_Jackson, Emanuel - Statement of Facts.pdf",military,"id447_Jackson, Emanuel"
 id447_Jensen - Statement of Facts.pdf,international,id447_Jensen
 id447_Jensen - Statement of Facts.pdf,qanon,id447_Jensen
 id448_Jensen - Statement of Facts.pdf,international,id448_Jensen
@@ -1347,13 +1487,19 @@ id449_James - Affidavit .pdf,"military"", ""military""",id449_James
 id449_James - Affidavit .pdf,military,id449_James
 id449_Jensen - Statement of Facts.pdf,international,id449_Jensen
 id449_Jensen - Statement of Facts.pdf,qanon,id449_Jensen
+id450_James - Affidavit .pdf,"military"", ""military"", ""military""",id450_James
+id450_James - Affidavit .pdf,"military"", ""military""",id450_James
+id450_James - Affidavit .pdf,military,id450_James
 id450_Jensen - Statement of Facts.pdf,international,id450_Jensen
 id450_Jensen - Statement of Facts.pdf,qanon,id450_Jensen
 id451_Jancart - Complaint & Statement of Facts.pdf,international,id451_Jancart
+id452_Jancart - Complaint & Statement of Facts.pdf,international,id452_Jancart
 id453_Jensen - Statement of Facts.pdf,international,id453_Jensen
 id453_Jensen - Statement of Facts.pdf,qanon,id453_Jensen
 id458_Jensen - Statement of Facts.pdf,international,id458_Jensen
 id458_Jensen - Statement of Facts.pdf,qanon,id458_Jensen
+id459_Jensen - Statement of Facts.pdf,international,id459_Jensen
+id459_Jensen - Statement of Facts.pdf,qanon,id459_Jensen
 "id46_Baker, Stephen - Complaint & Statement of Facts.pdf",funding,"id46_Baker, Stephen"
 id464_Kelly Statement of Facts.pdf,extreme,NA
 id466_Kelly Statement of Facts.pdf,extreme,NA
@@ -1367,6 +1513,7 @@ id477_Kelly Statement of Facts.pdf,extreme,NA
 id480_Kelly Statement of Facts.pdf,extreme,NA
 id484_Lang - Affidavit in Support.pdf,international,id484_Lang
 id485_Kelly Statement of Facts.pdf,extreme,NA
+id486_Kelly Statement of Facts.pdf,extreme,NA
 id486_Lang - Affidavit in Support.pdf,international,id486_Lang
 id488_Lang - Affidavit in Support.pdf,international,id488_Lang
 id492_Lang - Affidavit in Support.pdf,international,id492_Lang
@@ -1380,6 +1527,7 @@ id506_Loganbill Affadavit.pdf,"military"", ""military""",NA
 id508_Lang - Affidavit in Support.pdf,international,id508_Lang
 id508_Loganbill Affadavit.pdf,"extreme"", ""paramilitary""",NA
 id508_Loganbill Affadavit.pdf,"military"", ""military""",NA
+id509_Lang - Affidavit in Support.pdf,international,id509_Lang
 "id51_Baker, Stephen - Complaint & Statement of Facts.pdf",funding,"id51_Baker, Stephen"
 id510_Loganbill Affadavit.pdf,"extreme"", ""paramilitary""",NA
 id510_Loganbill Affadavit.pdf,"military"", ""military""",NA
@@ -1404,6 +1552,8 @@ id524_Loganbill Affadavit.pdf,"military"", ""military""",NA
 "id527_Madden, Dominic - Statement of Facts.pdf",qanon,"id527_Madden, Dominic"
 id530_Loganbill Affadavit.pdf,"extreme"", ""paramilitary""",NA
 id530_Loganbill Affadavit.pdf,"military"", ""military""",NA
+id531_Loganbill Affadavit.pdf,"extreme"", ""paramilitary""",NA
+id531_Loganbill Affadavit.pdf,"military"", ""military""",NA
 "id531_Madden, Dominic - Statement of Facts.pdf","qanon"", ""qanon""","id531_Madden, Dominic"
 "id531_Madden, Dominic - Statement of Facts.pdf",qanon,"id531_Madden, Dominic"
 "id534_Madden, Dominic - Statement of Facts.pdf","qanon"", ""qanon""","id534_Madden, Dominic"
@@ -1435,6 +1585,8 @@ id546_McGrew Complaint & Statement of Facts.pdf,extremist,NA
 id547_Mazzocco - Statement of Facts.pdf,international,id547_Mazzocco
 id547_Mckellop - Statement of Facts.pdf,"military"", ""military""",id547_Mckellop
 id547_Mckellop - Statement of Facts.pdf,military,id547_Mckellop
+"id548_Madden, Dominic - Statement of Facts.pdf","qanon"", ""qanon""","id548_Madden, Dominic"
+"id548_Madden, Dominic - Statement of Facts.pdf",qanon,"id548_Madden, Dominic"
 "id549_Mccreary - Complaint, Statement of Facts, & Indictment.pdf",far right,id549_Mccreary
 "id549_Mccreary - Complaint, Statement of Facts, & Indictment.pdf",qanon,id549_Mccreary
 id549_Mckellop - Statement of Facts.pdf,"military"", ""military""",id549_Mckellop
@@ -1486,6 +1638,7 @@ id561_Meggs - Third Superseding Indictment.pdf,military,id561_Meggs
 id563_Mazzocco - Statement of Facts.pdf,international,id563_Mazzocco
 id563_Mckellop - Statement of Facts.pdf,"military"", ""military""",id563_Mckellop
 id563_Mckellop - Statement of Facts.pdf,military,id563_Mckellop
+id564_Mazzocco - Statement of Facts.pdf,international,id564_Mazzocco
 id564_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id564_Meggs
 id564_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id564_Meggs
 id564_Meggs - Third Superseding Indictment.pdf,military,id564_Meggs
@@ -1494,22 +1647,30 @@ id564_Meggs - Third Superseding Indictment.pdf,military,id564_Meggs
 id565_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id565_Meggs
 id565_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id565_Meggs
 id565_Meggs - Third Superseding Indictment.pdf,military,id565_Meggs
+"id566_Mccreary - Complaint, Statement of Facts, & Indictment.pdf",far right,id566_Mccreary
+"id566_Mccreary - Complaint, Statement of Facts, & Indictment.pdf",qanon,id566_Mccreary
 id567_McGrew Complaint & Statement of Facts.pdf,extremist,NA
 id567_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id567_Meggs
 id567_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id567_Meggs
 id567_Meggs - Third Superseding Indictment.pdf,military,id567_Meggs
+id568_McGrew Complaint & Statement of Facts.pdf,extremist,NA
 id568_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id568_Meggs
 id568_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id568_Meggs
 id568_Meggs - Third Superseding Indictment.pdf,military,id568_Meggs
 id57_Baranyi - Affidavit.pdf,international,id57_Baranyi
 id570_Mckellop - Statement of Facts.pdf,"military"", ""military""",id570_Mckellop
 id570_Mckellop - Statement of Facts.pdf,military,id570_Mckellop
+id571_Mckellop - Statement of Facts.pdf,"military"", ""military""",id571_Mckellop
+id571_Mckellop - Statement of Facts.pdf,military,id571_Mckellop
 id571_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id571_Meggs
 id571_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id571_Meggs
 id571_Meggs - Third Superseding Indictment.pdf,military,id571_Meggs
 id578_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id578_Meggs
 id578_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id578_Meggs
 id578_Meggs - Third Superseding Indictment.pdf,military,id578_Meggs
+id579_Meggs - Third Superseding Indictment.pdf,"military"", ""military""",id579_Meggs
+id579_Meggs - Third Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary"", ""military""",id579_Meggs
+id579_Meggs - Third Superseding Indictment.pdf,military,id579_Meggs
 id58_Barber - Affidavit.pdf,military,id58_Barber
 id582_Mish - Statement of Facts.pdf,international,id582_Mish
 id586_Mish - Statement of Facts.pdf,international,id586_Mish
@@ -1528,6 +1689,7 @@ id609_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id609_Bissey  & Morg
 id609_Mish - Statement of Facts.pdf,international,id609_Mish
 id61_Barber - Affidavit.pdf,military,id61_Barber
 id610_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id610_Bissey  & Morgan-Lloyd
+id610_Mish - Statement of Facts.pdf,international,id610_Mish
 id613_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id613_Bissey  & Morgan-Lloyd
 id613_Morss Complaint & Affidavit.pdf,military,NA
 id614_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id614_Bissey  & Morgan-Lloyd
@@ -1536,8 +1698,10 @@ id617_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id617_Bissey  & Morg
 id617_Morss Complaint & Affidavit.pdf,military,NA
 id620_Morss Charging Documents.pdf,military,NA
 id624_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id624_Bissey  & Morgan-Lloyd
+id625_Bissey  & Morgan-Lloyd - Statement of Facts.pdf,qanon,id625_Bissey  & Morgan-Lloyd
 id626_Nordean - Complaint & Affidavit.pdf,extremist,id626_Nordean
 id627_Morss Charging Documents.pdf,military,NA
+id628_Morss Charging Documents.pdf,military,NA
 id630_Nordean - Complaint & Affidavit.pdf,extremist,id630_Nordean
 id632_Nordean - Complaint & Affidavit.pdf,extremist,id632_Nordean
 id636_Nordean - Complaint & Affidavit.pdf,extremist,id636_Nordean
@@ -1575,6 +1739,7 @@ id655_Nordean - Complaint & Affidavit.pdf,extremist,id655_Nordean
 id655_Orangias Statement of Facts.pdf,international,NA
 id655_Owens Statement of Facts.pdf,international,NA
 id655_Palm Statement of Facts.pdf,international,NA
+id656_Nordean - Complaint & Affidavit.pdf,extremist,id656_Nordean
 id656_Owens Statement of Facts.pdf,international,NA
 id656_Padilla - Complaint & Statement of Facts.pdf, ram ,id656_Padilla
 id657_Packer - Statement of Facts.pdf,"nazi"", ""nazi""",id657_Packer
@@ -1594,20 +1759,26 @@ id663_Palm Statement of Facts.pdf,international,NA
 id664_Owens Statement of Facts.pdf,international,NA
 id665_Orangias Statement of Facts.pdf,international,NA
 id665_Padilla - Complaint & Statement of Facts.pdf, ram ,id665_Padilla
+id666_Orangias Statement of Facts.pdf,international,NA
 id666_Packer - Statement of Facts.pdf,"nazi"", ""nazi""",id666_Packer
 id666_Palm Statement of Facts.pdf,international,NA
 id667_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id667_Perna
 id668_Owens Statement of Facts.pdf,international,NA
 id668_Padilla - Complaint & Statement of Facts.pdf, ram ,id668_Padilla
 id668_Palm Statement of Facts.pdf,international,NA
+id669_Owens Statement of Facts.pdf,international,NA
 id671_Owens Statement of Facts.pdf,international,NA
 id671_Palm Statement of Facts.pdf,international,NA
 id671_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id671_Perna
+id672_Owens Statement of Facts.pdf,international,NA
 id673_Packer - Statement of Facts.pdf,"nazi"", ""nazi""",id673_Packer
+id674_Packer - Statement of Facts.pdf,"nazi"", ""nazi""",id674_Packer
 id674_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id674_Perna
 id675_Padilla - Complaint & Statement of Facts.pdf, ram ,id675_Padilla
+id676_Padilla - Complaint & Statement of Facts.pdf, ram ,id676_Padilla
 id678_Palm Statement of Facts.pdf,international,NA
 id678_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id678_Perna
+id679_Palm Statement of Facts.pdf,international,NA
 id679_Pham- Statement of Facts.pdf,international,NA
 id681_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id681_Perna
 id682_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id682_Perna
@@ -1622,10 +1793,12 @@ id693_Pham- Statement of Facts.pdf,international,NA
 id694_Pham- Statement of Facts.pdf,international,NA
 id697_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id697_Perna
 id697_Pham- Statement of Facts.pdf,international,NA
+id698_Perna - Statement of Facts.pdf,"qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""qanon"", ""awakening"", ""military"", ""qanon"", ""awakening"", ""qanon""",id698_Perna
 id699_Pham- Statement of Facts.pdf,international,NA
 id702_Pham- Statement of Facts.pdf,international,NA
 id709_Pham- Statement of Facts.pdf,international,NA
 id71_Bauer Statement of Facts.pdf,far right,NA
+id710_Pham- Statement of Facts.pdf,international,NA
 id711_Price Complaint & Affidavit.pdf,international,NA
 id712_Price Complaint & Affidavit.pdf,international,NA
 id715_Price Complaint & Affidavit.pdf,international,NA
@@ -1638,6 +1811,7 @@ id727_Reffitt - Affidavit.pdf,"extremist"", ""three percent"", ""three percent""
 id727_Reffitt - Affidavit.pdf,extreme,id727_Reffitt
 id727_Reffitt - Affidavit.pdf,extremist,id727_Reffitt
 id729_Price Complaint & Affidavit.pdf,international,NA
+id730_Price Complaint & Affidavit.pdf,international,NA
 id730_Rebegila - Statement of Facts.pdf,international,id730_Rebegila
 id730_Register Statement of Facts.pdf,"international"", ""international""",NA
 id731_Reffitt - Affidavit.pdf,"extremist"", ""three percent"", ""three percent"", ""british"", ""british""",id731_Reffitt
@@ -1685,6 +1859,7 @@ id751_Reffitt - Affidavit.pdf,extreme,id751_Reffitt
 id751_Reffitt - Affidavit.pdf,extremist,id751_Reffitt
 id751_Register Statement of Facts.pdf,"international"", ""international""",NA
 id752_Rebegila - Statement of Facts.pdf,international,id752_Rebegila
+id753_Rebegila - Statement of Facts.pdf,international,id753_Rebegila
 id753_Riley - Statement of Facts.pdf,military,id753_Riley
 id754_Register Statement of Facts.pdf,"international"", ""international""",NA
 id754_Riddle - Complaint & Statement of Facts.pdf,military,id754_Riddle
@@ -1698,11 +1873,15 @@ id760_Reffitt - Affidavit.pdf,"extremist"", ""three percent"", ""three percent""
 id760_Reffitt - Affidavit.pdf,extreme,id760_Reffitt
 id760_Reffitt - Affidavit.pdf,extremist,id760_Reffitt
 id760_Riddle - Complaint & Statement of Facts.pdf,military,id760_Riddle
+id761_Reffitt - Affidavit.pdf,"extremist"", ""three percent"", ""three percent"", ""british"", ""british""",id761_Reffitt
+id761_Reffitt - Affidavit.pdf,extreme,id761_Reffitt
+id761_Reffitt - Affidavit.pdf,extremist,id761_Reffitt
 id761_Riley - Statement of Facts.pdf,military,id761_Riley
 id761_Rodean - Statement of Facts.pdf,far right,id761_Rodean
 id763_Register Statement of Facts.pdf,"international"", ""international""",NA
 id763_Riddle - Complaint & Statement of Facts.pdf,military,id763_Riddle
 id763_Riley - Statement of Facts.pdf,military,id763_Riley
+id765_Register Statement of Facts.pdf,"international"", ""international""",NA
 id765_Rodean - Statement of Facts.pdf,far right,id765_Rodean
 id766_Riley - Statement of Facts.pdf,military,id766_Riley
 id769_Rodean - Statement of Facts.pdf,far right,id769_Rodean
@@ -1710,15 +1889,18 @@ id770_Rodean - Statement of Facts.pdf,far right,id770_Rodean
 id771_Ryan - Statement of Facts.pdf,international,id771_Ryan
 id772_Riddle - Complaint & Statement of Facts.pdf,military,id772_Riddle
 id773_Rodean - Statement of Facts.pdf,far right,id773_Rodean
+id774_Riddle - Complaint & Statement of Facts.pdf,military,id774_Riddle
 id775_Riley - Statement of Facts.pdf,military,id775_Riley
 id775_Rodean - Statement of Facts.pdf,far right,id775_Rodean
 id775_Ryan - Statement of Facts.pdf,international,id775_Ryan
+id777_Riley - Statement of Facts.pdf,military,id777_Riley
 id778_Rodean - Statement of Facts.pdf,far right,id778_Rodean
 id778_Ryan - Statement of Facts.pdf,international,id778_Ryan
 id782_Ryan - Statement of Facts.pdf,international,id782_Ryan
 id786_Ryan - Statement of Facts.pdf,international,id786_Ryan
 id787_Rodean - Statement of Facts.pdf,far right,id787_Rodean
 id787_Ryan - Statement of Facts.pdf,international,id787_Ryan
+id789_Rodean - Statement of Facts.pdf,far right,id789_Rodean
 id790_Ryan - Statement of Facts.pdf,international,id790_Ryan
 id792_Ryan - Statement of Facts.pdf,international,id792_Ryan
 id793_Sargent - Statement of Facts.pdf,international,id793_Sargent
@@ -1732,6 +1914,7 @@ id804_Sargent - Statement of Facts.pdf,international,id804_Sargent
 id804_Schaffer - Statement of Facts.pdf,"military"", ""extremist""",id804_Schaffer
 "id804_Schwab, Katherine - Complaint & Statement of Facts.pdf",international,"id804_Schwab, Katherine"
 id805_Schornak & Herendeen - Statement of Facts.pdf,military,id805_Schornak & Herendeen
+id806_Ryan - Statement of Facts.pdf,international,id806_Ryan
 id807_Schaffer - Statement of Facts.pdf,"military"", ""extremist""",id807_Schaffer
 id808_Sargent - Statement of Facts.pdf,international,id808_Sargent
 id808_Schornak & Herendeen - Statement of Facts.pdf,military,id808_Schornak & Herendeen
@@ -1789,6 +1972,7 @@ id827_Secor Christian Complaint.pdf,"nazi"", ""groyper"", ""nazi""",NA
 id827_Secor Christian Complaint.pdf,extreme,NA
 id827_Secor Christian Complaint.pdf,extremist,NA
 id827_Secor Christian Complaint.pdf,groyper,NA
+id828_Sargent - Statement of Facts.pdf,international,id828_Sargent
 "id828_Schwab, Katherine - Complaint & Statement of Facts.pdf",international,"id828_Schwab, Katherine"
 id830_Secor Christian Complaint.pdf,"groyper"", ""groyper"", ""groyper"", ""alt right"", ""fuentes""",NA
 id830_Secor Christian Complaint.pdf,"nazi"", ""groyper"", ""nazi""",NA
@@ -1802,12 +1986,15 @@ id832_Secor Christian Complaint.pdf,extremist,NA
 id832_Secor Christian Complaint.pdf,groyper,NA
 id833_Schaffer - Statement of Facts.pdf,"military"", ""extremist""",id833_Schaffer
 id834_Schornak & Herendeen - Statement of Facts.pdf,military,id834_Schornak & Herendeen
+id835_Schaffer - Statement of Facts.pdf,"military"", ""extremist""",id835_Schaffer
 id835_Secor Christian Complaint.pdf,"groyper"", ""groyper"", ""groyper"", ""alt right"", ""fuentes""",NA
 id835_Secor Christian Complaint.pdf,"nazi"", ""groyper"", ""nazi""",NA
 id835_Secor Christian Complaint.pdf,extreme,NA
 id835_Secor Christian Complaint.pdf,extremist,NA
 id835_Secor Christian Complaint.pdf,groyper,NA
+id836_Schornak & Herendeen - Statement of Facts.pdf,military,id836_Schornak & Herendeen
 "id837_Schwab, Katherine - Complaint & Statement of Facts.pdf",international,"id837_Schwab, Katherine"
+"id839_Schwab, Katherine - Complaint & Statement of Facts.pdf",international,"id839_Schwab, Katherine"
 id843_Smocks - Affidavit in Support.pdf,"extremist"", ""qanon"", ""military"", ""military""",id843_Smocks
 id843_Smocks - Affidavit in Support.pdf,military,id843_Smocks
 id844_Secor Christian Complaint.pdf,"groyper"", ""groyper"", ""groyper"", ""alt right"", ""fuentes""",NA
@@ -1815,6 +2002,11 @@ id844_Secor Christian Complaint.pdf,"nazi"", ""groyper"", ""nazi""",NA
 id844_Secor Christian Complaint.pdf,extreme,NA
 id844_Secor Christian Complaint.pdf,extremist,NA
 id844_Secor Christian Complaint.pdf,groyper,NA
+id846_Secor Christian Complaint.pdf,"groyper"", ""groyper"", ""groyper"", ""alt right"", ""fuentes""",NA
+id846_Secor Christian Complaint.pdf,"nazi"", ""groyper"", ""nazi""",NA
+id846_Secor Christian Complaint.pdf,extreme,NA
+id846_Secor Christian Complaint.pdf,extremist,NA
+id846_Secor Christian Complaint.pdf,groyper,NA
 id847_Smocks - Affidavit in Support.pdf,"extremist"", ""qanon"", ""military"", ""military""",id847_Smocks
 id847_Smocks - Affidavit in Support.pdf,military,id847_Smocks
 id850_Smocks - Affidavit in Support.pdf,"extremist"", ""qanon"", ""military"", ""military""",id850_Smocks
@@ -1837,6 +2029,8 @@ id872_Stecher Complaint & Statement of Facts.pdf,far right,NA
 id875_Stecher Complaint & Statement of Facts.pdf,far right,NA
 id876_Smocks - Affidavit in Support.pdf,"extremist"", ""qanon"", ""military"", ""military""",id876_Smocks
 id876_Smocks - Affidavit in Support.pdf,military,id876_Smocks
+id878_Smocks - Affidavit in Support.pdf,"extremist"", ""qanon"", ""military"", ""military""",id878_Smocks
+id878_Smocks - Affidavit in Support.pdf,military,id878_Smocks
 id879_Stecher Complaint & Statement of Facts.pdf,far right,NA
 id88_Bingert - Statement of Facts.pdf,"military"", ""military""",id88_Bingert
 id883_Stecher Complaint & Statement of Facts.pdf,far right,NA
@@ -1853,11 +2047,13 @@ id899_Straka - Complaint & Affidavit.pdf,the base ,id899_Straka
 id90_Bingert - Statement of Facts.pdf,"military"", ""military""",id90_Bingert
 id900_Straka - Complaint & Affidavit.pdf,the base ,id900_Straka
 id901_Stecher Complaint & Statement of Facts.pdf,far right,NA
+id903_Stecher Complaint & Statement of Facts.pdf,far right,NA
 id903_Straka - Complaint & Affidavit.pdf,the base ,id903_Straka
 id905_Straka - Complaint & Affidavit.pdf,the base ,id905_Straka
 id908_Straka - Complaint & Affidavit.pdf,the base ,id908_Straka
 id91_Bishai & Irizarry - Statement of Facts Redacted.pdf,military,id91_Bishai & Irizarry
 id917_Straka - Complaint & Affidavit.pdf,the base ,id917_Straka
+id919_Straka - Complaint & Affidavit.pdf,the base ,id919_Straka
 id921_Vargas Santos - Complaint & Statement of Facts.pdf,donation,id921_Vargas Santos
 id925_Vargas Santos - Complaint & Statement of Facts.pdf,donation,id925_Vargas Santos
 id926_Vargas Santos - Complaint & Statement of Facts.pdf,donation,id926_Vargas Santos
@@ -1908,6 +2104,7 @@ id956_Webster - Complaint & Statement of Facts.pdf,the base ,id956_Webster
 id957_Oath Keepers Fourth Superseding Indictment.pdf,"military"", ""military""",NA
 id957_Oath Keepers Fourth Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary""",NA
 id957_Oath Keepers Fourth Superseding Indictment.pdf,military,NA
+id957_Vargas Santos - Complaint & Statement of Facts.pdf,donation,id957_Vargas Santos
 id957_Warnagiris Complaint & Statement of Facts.pdf,military,NA
 id957_Webster - Complaint & Statement of Facts.pdf,the base ,id957_Webster
 id957_Weibling Affidavit.pdf,"international"", ""international""",NA
@@ -1974,6 +2171,9 @@ id975_Oath Keepers Fourth Superseding Indictment.pdf,military,NA
 id975_Webster - Complaint & Statement of Facts.pdf,the base ,id975_Webster
 id976_Watson - Complaint & Affidavit.pdf,international,id976_Watson
 id976_Weibling Affidavit.pdf,"international"", ""international""",NA
+id977_Oath Keepers Fourth Superseding Indictment.pdf,"military"", ""military""",NA
+id977_Oath Keepers Fourth Superseding Indictment.pdf,"paramilitary"", ""paramilitary"", ""paramilitary""",NA
+id977_Oath Keepers Fourth Superseding Indictment.pdf,military,NA
 id977_Webster - Complaint & Statement of Facts.pdf,the base ,id977_Webster
 id977_Weibling Affidavit.pdf,"international"", ""international""",NA
 "id977_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id977_Williams, Riley"
@@ -1990,8 +2190,13 @@ id980_Watkins - Affidavit.pdf,ohiomilitia,id980_Watkins
 id980_Watkins - Affidavit.pdf,paramilitary,id980_Watkins
 id980_Webster - Complaint & Statement of Facts.pdf,the base ,id980_Webster
 id980_Weibling Affidavit.pdf,"international"", ""international""",NA
+id981_Warnagiris Complaint & Statement of Facts.pdf,military,NA
 "id981_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id981_Williams, Riley"
 "id981_Williams, Riley - Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id981_Williams, Riley"
+id982_Watkins - Affidavit.pdf,"paramilitary"", ""military"", ""military"", ""military"", ""military""",id982_Watkins
+id982_Watkins - Affidavit.pdf,"paramilitary"", ""ohiomilitia""",id982_Watkins
+id982_Watkins - Affidavit.pdf,ohiomilitia,id982_Watkins
+id982_Watkins - Affidavit.pdf,paramilitary,id982_Watkins
 id982_Weibling Affidavit.pdf,"international"", ""international""",NA
 "id982_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id982_Williams, Riley"
 "id982_Williams, Riley - Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id982_Williams, Riley"
@@ -2007,6 +2212,8 @@ id988_Watson - Complaint & Affidavit.pdf,international,id988_Watson
 "id988_Williams, Riley - Amended Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id988_Williams, Riley"
 id989_Webster - Complaint & Statement of Facts.pdf,the base ,id989_Webster
 id99_Bisignano - Statement of Facts.pdf,international,id99_Bisignano
+id990_Watson - Complaint & Affidavit.pdf,international,id990_Watson
+id991_Webster - Complaint & Statement of Facts.pdf,the base ,id991_Webster
 "id992_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id992_Williams, Riley"
 "id992_Williams, Riley - Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id992_Williams, Riley"
 id994_Weibling Affidavit.pdf,"international"", ""international""",NA
@@ -2015,6 +2222,7 @@ id994_Weibling Affidavit.pdf,"international"", ""international""",NA
 id994_Worrell - Statement of Facts.pdf,extreme,id994_Worrell
 id994_Worrell - Statement of Facts.pdf,international,id994_Worrell
 id995_Timothy Wayne Williams Charging Documents.pdf,generation,NA
+id996_Weibling Affidavit.pdf,"international"", ""international""",NA
 "id996_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id996_Williams, Riley"
 "id996_Williams, Riley - Statement of Facts.pdf","russia"", ""russia"", ""russia"", ""british""","id996_Williams, Riley"
 "id997_Williams, Riley - Statement of Facts.pdf","british"", ""far right""","id997_Williams, Riley"
