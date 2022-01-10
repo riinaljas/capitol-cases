@@ -40,6 +40,6 @@ jobs:
     - name: stage changed files
       run: git add --a
     - name: commit changed files
-      run: git commit -m "fresh files"
+      run: git commit -m "fresh files new"
     - name: push code 
       run: git push
